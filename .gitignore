@@ -1,0 +1,4 @@
+view/**/*.go
+bin/
+tmp/
+testdata/
